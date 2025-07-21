@@ -87,3 +87,11 @@ warning: in the working copy of 'backup_log.txt', LF will be replaced by CRLF th
 To https://github.com/cegpa/backups_BD.git
    e932702..44099be  main -> main
 21/07/2025 15:00:01,88 
+warning: in the working copy of 'backup_log.txt', LF will be replaced by CRLF the next time Git touches it
+[main 6a2b97f] Backup autom├ítico em 21/07/2025 15:00:02,07
+ 3 files changed, 258 insertions(+), 380 deletions(-)
+ delete mode 100644 cegpa_2025-07-16_11-00.sql
+ create mode 100644 cegpa_2025-07-21_15.sql
+remote: Repository not found.
+fatal: repository 'https://github.com/cegpa/backups_BD.git/' not found
+21/07/2025 15:03:52,60 
