@@ -148,3 +148,10 @@ warning: in the working copy of 'backup_log.txt', LF will be replaced by CRLF th
 To https://github.com/cegpa/backups_BD.git
    652de20..8740f6a  main -> main
 28/07/2025 15:00:01,09 
+warning: in the working copy of 'backup_log.txt', LF will be replaced by CRLF the next time Git touches it
+[main 3da07cf] Backup autom├ítico em 28/07/2025 15:00:01,34
+ 2 files changed, 18 insertions(+), 11 deletions(-)
+ rename cegpa_2025-07-21_ 9.sql => cegpa_2025-07-28_15.sql (80%)
+To https://github.com/cegpa/backups_BD.git
+   8740f6a..3da07cf  main -> main
+29/07/2025 15:00:01,37 
