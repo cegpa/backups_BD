@@ -27,7 +27,7 @@ git add . >> backup_log.txt 2>&1
 git commit -m "Backup automático em %DATE% %TIME%" >> backup_log.txt 2>&1
 git push origin main >> backup_log.txt 2>&1
 
-REM =========== CÓPIA DA PASTA INTEIRA PARA O GOOGLE DRIVE ===========
-xcopy "C:\Sistema-cegpa\backups_BD" "G:\Meu Drive\" /E /I /Y
+REM =========== CÓPIA DA PASTA COMO UM TODO PARA O GOOGLE DRIVE ===========
+xcopy "C:\Sistema-cegpa\backups_BD\\" "G:\Meu Drive\backups_BD\\" /E /I /Y
 
 REM =================== FIM ===================
