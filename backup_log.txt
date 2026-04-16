@@ -1209,3 +1209,5 @@ warning: in the working copy of 'backup_log.txt', LF will be replaced by CRLF th
 To https://github.com/cegpa/backups_BD.git
    ae4e7f5..bb78522  main -> main
 15/04/2026 11:00:02,14 
+warning: in the working copy of 'backup_log.txt', LF will be replaced by CRLF the next time Git touches it
+[main ^C16/04/2026 15:00:01,53 
