@@ -1223,3 +1223,10 @@ warning: in the working copy of 'backup_log.txt', LF will be replaced by CRLF th
  2 files changed, 8 insertions(+), 1 deletion(-)
  rename cegpa_2026-04-07_15.sql => cegpa_2026-04-17_15.sql (99%)
 ^C20/04/2026 15:00:01,34 
+warning: in the working copy of 'backup_log.txt', LF will be replaced by CRLF the next time Git touches it
+[main 48d56df] Backup autom├ítico em 20/04/2026 15:00:01,99
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+ rename cegpa_2026-04-08_11.sql => cegpa_2026-04-20_15.sql (99%)
+To https://github.com/cegpa/backups_BD.git
+   d425c20..48d56df  main -> main
+22/04/2026 11:00:01,74 
